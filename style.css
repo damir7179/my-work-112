@@ -1,0 +1,223 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.hero-section {
+    font-family: Arial;
+    background: #fff;
+    background-image: url(https://img.lovepik.com/bg/20240120/Enhancing-Ice-Cream-Cones-with-Delicious-Fruits-and-Toppings_2783021_wh860.jpg!/fw/860);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.overlay {
+    justify-content: center;
+    align-items: center;
+}
+
+.overlay2 {
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    height: 70px;
+    background-color:#ff80ab;
+    width: 100%;
+    
+}
+
+.ul {
+  align-items: center;
+  justify-content: center;
+  margin-left:  500px;
+  margin-bottom: 15px;
+}
+
+.ul .li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+    color: #fff;
+}
+
+.log {
+    align-items: center;
+    justify-content: center;
+    margin-right:  500px;
+    margin-bottom: 15px;
+}
+
+.log i {
+    color:#fff ;
+    font-size: 20px;
+    list-style: none;
+    display: inline-block;
+    margin: 0 10px;
+    position: relative;
+    color: #fff;
+}
+
+.body1 {
+    display: flex;
+    border-radius: 20px;
+    background-color: white;
+    height: 60px;
+    width: 800px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: -23px;
+
+}
+
+.sp1 {
+    color: aqua;
+}
+
+.sp {
+    color: #ff80ab;
+}
+
+.logo {
+    font-size: 35px;
+    color: #ff80ab;
+    padding-top: -70px;
+    
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    margin: 10px 0;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    margin: 0 10px;
+}
+
+.menu a {
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0 10px;
+}
+
+.content {
+    margin: auto;
+    text-align: center;
+    margin-top:  450px;
+}
+
+.content h2 {
+    font-size: 20px;
+    color: #ff80ab;
+    margin-bottom: 10px;
+}
+
+.content p {
+    font-size:  50px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.btn {
+    background: #ff80ab;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 17px;
+}
+
+.section2 {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 50vh;
+    background-color: #fff;
+    display: flex;
+    margin-bottom: -30px;
+}
+
+.body0 {
+    display: flex;
+    width: 100%;
+}
+
+.body2 {
+    width:  50%;
+    height: 50vh;
+}
+
+.body3 {
+    width: 50%;
+    height: 50vh;
+    border: solid 1px;
+    align-items: center;
+    justify-content: center;
+    padding: auto;
+    background-color: #ff80ab;
+}
+
+.body2 .img10 {
+    width: 100%;
+    height: 50vh;
+}
+
+.items {
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    padding: auto;
+    padding-top: 100px;
+}
+
+.border {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: -20px;
+} 
+
+.border .hh1 {
+    position: relative;
+    top: 30px;
+    left: 18px;
+    color: aqua;
+}
+
+.hh2 {
+    color: #fff;
+    font-size: 37px;
+    margin-bottom: 10px;
+    margin-top: -30px;
+}
+
+.pp1 {
+    color: aliceblue;
+    margin-top: 13px;
+}
+
+.btnnn {
+    background-color: aqua;
+    color: #fff;
+    width: 150px;
+    height: 39px;
+    border-radius: 17px;
+    border: 1px solid aqua;
+    margin-top: 50px;
+}
